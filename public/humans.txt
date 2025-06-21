@@ -1,0 +1,45 @@
+/* Omar Ramirez Hernandez -  link*/
+
+
+/* TEAM */
+
+Design and Develop: Omar Ramírez Hernández
+Contact: omar.ram.hdz [at] gmail.com
+Location: Tlaxcala, México
+Linkedin: https://linkedin.com/in/omar-ram-hdz
+Github: https://github.com/omar-ram-hdz
+
+
+
+/* RESOURCES */
+
+Social icons: https://svgl.app
+
+
+
+
+
+/* DEV RESOURCES */
+Package manager: PNPM
+Website: https://pnpm.io/
+
+Build tool: Vite
+Website: https://vite.dev
+
+Linter and formatter: Biome
+Website: https://biomejs.dev
+
+
+
+
+/* INSPIRATION */
+
+Head tag content: https://jonmircha.com
+
+
+
+/* SITE */
+
+Last update: 21-jun-2025
+Language: Español
+IDE: Visual Studio Code, Figma
